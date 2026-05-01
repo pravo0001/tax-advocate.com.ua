@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img">
+  <title>taxlawyer.com.ua  ?>40B:>289 042>:0B</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1018" />
+      <stop offset="100%" stop-color="#06080e" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="64" y="64" width="1072" height="502" rx="24" fill="none" stroke="#c9a962" stroke-opacity="0.35" stroke-width="2" />
+  <text x="96" y="280" fill="#e8ecf4" font-family="Georgia, 'Times New Roman', serif" font-size="56">taxlawyer.com.ua</text>
+  <text x="96" y="350" fill="#c9a962" font-family="Arial, Helvetica, sans-serif" font-size="28">Tax lawyer " Ukraine</text>
+  <text x="96" y="410" fill="#8b93a8" font-family="Arial, Helvetica, sans-serif" font-size="22">  "   " ! " Administrative courts</text>
+</svg>
